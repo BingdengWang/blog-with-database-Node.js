@@ -1,4 +1,4 @@
-# blog-with-database
+# blog-with-database-Node.js
 
 https://blogwithdatabase.herokuapp.com/
 
